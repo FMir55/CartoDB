@@ -1,2 +1,1 @@
-# MongoDB
 GIS Database
