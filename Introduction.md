@@ -15,12 +15,12 @@ http://blog.changyy.org/2014/09/python-apache-web-server-accesslog.html
 故以python 對csv檔 篩檢所需Data Column，經File Output 後再上傳檔案:
 https://github.com/FMir55/CartoDB/blob/master/CSV_Edit.py
 
-所需欄位:
+必須欄位:
   - Longitude 
   - Latitude 
   - Value (欲觀測的值)
   
-額外欄位:
+外加欄位:
   - DateTime (用於時間序列)
   
 範例:
