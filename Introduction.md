@@ -1,6 +1,8 @@
 #CartoDB
 - GIS Database
 - Open Source
+- Web site : https://cartodb.com/ 
+
 - Reference
 
 http://blog.infographics.tw/2015/04/visualize-on-map-using-cartodb/
@@ -10,7 +12,7 @@ http://blog.changyy.org/2014/09/python-apache-web-server-accesslog.html
 - 上傳原始檔案不等於使用到的儲存空間大小，而免費空間限制在 50MB 以下
 - 付費選項不便宜， 4500 元新台幣 / 月，
 
-故以python 對csv檔 篩檢所需Data Column，File Open 後再上傳檔案
+故以python 對csv檔 篩檢所需Data Column，經File Output 後再上傳檔案:
 https://github.com/FMir55/CartoDB/blob/master/CSV_Edit.py
 
 所需欄位:
