@@ -11,6 +11,7 @@ http://blog.changyy.org/2014/09/python-apache-web-server-accesslog.html
 - 付費選項不便宜， 4500 元新台幣 / 月，
 
 故以python 對csv檔 篩檢所需Data Column，File Open 後再上傳檔案
+https://github.com/FMir55/CartoDB/blob/master/CSV_Edit.py
 
 所需欄位:
   - Longitude 
